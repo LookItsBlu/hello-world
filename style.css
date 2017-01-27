@@ -1,0 +1,5 @@
+body { margin: 0; padding: 0; }
+
+p:first-child { background-color: #3498db; }
+p:nth-child(2) { background-color: #ecf0f1; }
+p:nth-child(3) { background-color: #e74c3c; }
