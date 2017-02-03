@@ -1,4 +1,4 @@
 @media screen/* and (min-width: 480px) */and (max-width: 768px) {
     p { font-size: 12px; width: 100vw; }
-    img { width: 100vw; height: auto; max-width: 768px; }
+    img { width: 100vw; height: auto; min-width: 100vw; max-width: 768px; }
 }
