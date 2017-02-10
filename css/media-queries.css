@@ -1,4 +1,6 @@
 @media screen/* and (min-width: 480px) */and (max-width: 768px) {
+    h1 { font-size: 22px; }
     p { font-size: 12px; width: 100vw; }
     img { height: auto; width: 100%; max-width: 768px; }
+    td { display: table; width: 100vw; border: none; }
 }
